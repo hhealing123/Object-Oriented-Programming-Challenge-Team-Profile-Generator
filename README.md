@@ -55,6 +55,7 @@ Type `npm run test` in the terminal to test the project.
 * [Contact](#contact)
 
 ## Project Demonstration
+[Project Video Demo](https://user-images.githubusercontent.com/106945679/187118761-17e92ced-7883-404f-8721-c96b35ce7f83.mp4)
 
 ## Final Thoughts
 By far I think this week's assignment was the hardest compared to other week's assignments simply because I am not really familiar with using test driven development. In addition, I have encountered numerous errors when creating this project which mainly came from connecting files and constructing functions. However, testing the project was fairly easy since the terminal told me where exactly error occured. Although it was very challenging to complete this project, I definetely learned a lot and was quite fun solving issues that I had, such as putting missing pieces together, connecting, and export/import modules. I am planning to read all my codes again for this project so that I can better understand what exactly I did. 
