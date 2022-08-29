@@ -1,4 +1,4 @@
-# Object-Oriented Programming Challenge: Team Profile Generator
+# Object-Oriented Programming (OOP) Challenge: Team Profile Generator
 
 ## Description
 This week's challenge is to build a `Node.js command-line application` that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Since testing is key to making code maintainable, you will also write unit tests for each part of your code and ensure that it passes all of them. 
@@ -34,11 +34,15 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Installation & Usage & Tests
-Type `npm install` in the terminal to install this project, then type `node index.js`.
+Type `npm init` in the terminal to get `package.json`.
+
+Type `npm install` in the terminal to install this project; furthermore, type `npm inquirer` to get `inquirer` npm package.
+
+Type `node index.js` to get project working!
 
 This project is used to demonstrate `Object Oriented Programming (OOP)` using `Node.js`. The main purpose of this project is to utilize `Testing Driven Development`.
 
-Type `npm run test` in the terminal to test codes.
+Type `npm run test` in the terminal to test the project.
 
 ## Table of Contents
 * [Description](#description)
@@ -53,7 +57,7 @@ Type `npm run test` in the terminal to test codes.
 ## Project Demonstration
 
 ## Final Thoughts
-By far I think this week's assignment was hardest compared to other week's assignments simply because I am not really familiar with using test driven development. In addition, I have encountered numerous errors when creating this project which mainly came from connecting and constructing functions. Although it was very challenging to complete this project, I definetely learned a lot and was quite fun solving issues that I had, such as putting missing pieces together, connect, and export/import modules. 
+By far I think this week's assignment was the hardest compared to other week's assignments simply because I am not really familiar with using test driven development. In addition, I have encountered numerous errors when creating this project which mainly came from connecting files and constructing functions. However, testing the project was fairly easy since the terminal told me where exactly error occured. Although it was very challenging to complete this project, I definetely learned a lot and was quite fun solving issues that I had, such as putting missing pieces together, connecting, and export/import modules. I am planning to read all my codes again for this project so that I can better understand what exactly I did. 
 
 ## Utilized Resources
 * [Path Location](https://stackoverflow.com/questions/7591240/what-does-dot-slash-refer-to-in-terms-of-an-html-file-path-location)
