@@ -56,13 +56,13 @@ Type `npm run test` in the terminal to test codes.
 By far I think this week's assignment was hardest compared to other week's assignments simply because I am not really familiar with using test driven development. In addition, I have encountered numerous errors when creating this project which mainly came from connecting and constructing functions. Although it was very challenging to complete this project, I definetely learned a lot and was quite fun solving issues that I had, such as putting missing pieces together, connect, and export/import modules. 
 
 ## Utilized Resources
-[Path Location](https://stackoverflow.com/questions/7591240/what-does-dot-slash-refer-to-in-terms-of-an-html-file-path-location)
-[Path Location 2](https://docs.microsoft.com/en-us/dotnet/standard/io/file-path-formats)
-[Bootstrap Grid System](https://getbootstrap.com/docs/4.0/layout/grid/)
-[JavaScript Class](https://www.javascripttutorial.net/es6/javascript-class/)
-[JavaScript Class 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-[Case & Switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
-[Case & Switch 2](https://www.tutorialspoint.com/javascript/javascript_switch_case.htm)
+* [Path Location](https://stackoverflow.com/questions/7591240/what-does-dot-slash-refer-to-in-terms-of-an-html-file-path-location)
+* [Path Location 2](https://docs.microsoft.com/en-us/dotnet/standard/io/file-path-formats)
+* [Bootstrap Grid System](https://getbootstrap.com/docs/4.0/layout/grid/)
+* [JavaScript Class](https://www.javascripttutorial.net/es6/javascript-class/)
+* [JavaScript Class 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [Case & Switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+* [Case & Switch 2](https://www.tutorialspoint.com/javascript/javascript_switch_case.htm)
 
 ## Contact
 As always if you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com`!
