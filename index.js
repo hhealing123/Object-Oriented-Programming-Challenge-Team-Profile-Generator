@@ -24,7 +24,7 @@ function createTeamProfile () {
         case "Manager":
           addManager();
           break;
-        case "SeniorEngineer":
+        case "Senior Engineer":
           addSeniorEngineer();
           break;
         case "Engineer":

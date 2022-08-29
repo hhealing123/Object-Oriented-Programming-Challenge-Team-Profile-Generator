@@ -9,7 +9,7 @@ test("Creating intern's attending school...", () => {
 test("Testing if getEmail will return email address..", () => {
     const testEmail = "Inter's Email Address";
     const employeeInstance = new Intern("Harvey", 1, "hhealing123@gmail.com", testEmail);
-    expect(employeeInstance.getSchool()).toBe(testSchool);
+    expect(employeeInstance.getSchool()).toBe(testEmail);
 });
 
 test("Testing employee's role...", () => {
