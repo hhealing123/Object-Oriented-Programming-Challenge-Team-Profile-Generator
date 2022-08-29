@@ -1,0 +1,29 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "Object Oriented Programming (OOP)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhealing123/Object-Oriented-Programming-Challenge-Team-Profile-Generator.git"
+  },
+  "author": "Harvey Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhealing123/Object-Oriented-Programming-Challenge-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/hhealing123/Object-Oriented-Programming-Challenge-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
